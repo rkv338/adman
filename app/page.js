@@ -39,7 +39,17 @@ export default function Home() {
             </p>
           </article>
 
-          <AdSlot slot="2222222222" style={{ minHeight: 250 }} />
+                    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4344533853971687"
+              crossorigin="anonymous"></script>
+          <ins class="adsbygoogle"
+              style="display:block; text-align:center;"
+              data-ad-layout="in-article"
+              data-ad-format="fluid"
+              data-ad-client="ca-pub-4344533853971687"
+              data-ad-slot="2830546927"></ins>
+          <script>
+              (adsbygoogle = window.adsbygoogle || []).push({});
+          </script>
 
           <article className="article">
             <h2>Best Practices for Responsive Design</h2>
